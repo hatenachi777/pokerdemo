@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+
+
+
+.bg_test {
+    background-image: url(/card/s.png);    /* 背景画像指定 */
+}
+
